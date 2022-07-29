@@ -38,9 +38,9 @@ global.mongodb = process.env.MONGODB_URI || "Enter-MongoURI-HERE"
 
 global.port = process.env.PORT || 5000
 global.botnma = process.env.botnma || '⼄ᴇʀᴏㄒωᴏㇱ'//bot name
-global.watermark = "ENJOY WITH ZERO TWO"
+global.watermark = "ENJOY WITH ZERO TWO DARLING 💕"
 global.botname = process.env.botnamw || '⼄ᴇʀᴏㄒωᴏㇱ'
-global.ownernma = 'Ikshwaku Pandey' //owner name
+global.ownernma = 'ᥴꫝꫀꪗ-𝙎𝙖𝙣💫🌙🪐✨' //owner name
 global.ownername = process.env.ownername || 'ᥴꫝꫀꪗ-𝙎𝙖𝙣💫🌙🪐✨' //owner name
 global.packname = 'Zero-Two ᥴꫝꫀꪗ-𝙎𝙖𝙣💫🌙🪐✨' //sticker package name
 global.author = 'Dont Steal' //sticker author name
